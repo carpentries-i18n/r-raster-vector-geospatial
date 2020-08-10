@@ -1,4 +1,6 @@
 ---
+layout: page
+permalink: /aio/
 ---
 {% include base_path.html %}
 
